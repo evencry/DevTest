@@ -4,7 +4,6 @@ Technical test for prospective developers.
 ## Overview
 We are currently updating to use .NET Core 2.x for our API's and have a variety if frontend solutions. 
 
-
 ## Task
 Using the given code base that will provide some fake currency API's, complete the following user stories:
 
@@ -26,3 +25,5 @@ You must also demonstrate:
  - Unit testing
 
 The task should not take too long to complete, perhaps a few hours, but you can spend as much time as you like. Once you are happy you have met the requirements please include a readme about what you would change, what features you might add or what refactoring would you do, etc..
+
+__Note__: The code solution was created using Visual Studio 2017 and .NET Core 2.2.104
