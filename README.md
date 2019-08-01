@@ -31,7 +31,7 @@ The task should not take too long to complete, perhaps a few hours, but you can 
 __Note__: The code solution was created using Visual Studio 2017 and .NET Core 2.2.104
 
 ## Getting Started
-1. Download a copy of Visual Studio from (https://visualstudio.microsoft.com/vs/)
+1. Download a copy of Visual Studio from https://visualstudio.microsoft.com/vs/ and .NET Core from https://dotnet.microsoft.com/download/dotnet-core/2.2
 
 2. Open solution in Visual Studio and make sure that multiple start up projects is configured. (if configured skip to step 5)
 ![Multiple Startup Screenshot](assets/multiplestartup.png)
