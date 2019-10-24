@@ -2,7 +2,7 @@
 Technical test for prospective developers.
 
 ## Overview
-We are currently updating to use .NET Core 2.x for our API's and have a variety if frontend solutions. 
+We are currently updating to use .NET Core 2.x for our API's and have a variety of front-end solutions. 
 
 ## Task
 Using the given code base; that provides some fake currency API's; complete the following user stories:
